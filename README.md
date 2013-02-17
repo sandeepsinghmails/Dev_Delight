@@ -13,7 +13,7 @@ Use the command ":color Dev_Delight"
 
 Add the following Line (as-it-is) to your .gvimrc File:
 
-colorscheme dev_delight
+colorscheme Dev_Delight
 
 
 **How To Install Dev_Delight?**
