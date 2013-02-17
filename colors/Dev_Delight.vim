@@ -34,8 +34,15 @@ endif
 
 let colors_name = "Dev_Delight"
 
-hi Comment  guibg=#fefbed  guifg=#330088  gui=none    ctermbg=8	  ctermfg=7
-hi Normal 	guibg=cornsilk 
-hi LineNr 	guifg=#937E62  guibg=#FFEFD5
-hi Special	gui=bold   
+hi Comment  	guibg=#fefbed  guifg=#330088  gui=none    ctermbg=8	  ctermfg=7
+hi Normal 		guibg=cornsilk 
+hi LineNr 		guifg=#937E62  guibg=#FFEFD5
+hi Special		gui=bold   
+hi String   	guifg=#FF1493
+hi Macro    	guifg=#9400D3
+hi Number   	guifg=#FF1493   gui=bold 
+hi Boolean  	guifg=#FF1493   gui=bold 
+hi Character 	guifg=#FF1493   gui=bold 
+hi Constant 	guifg=#FF1493   gui=bold 
+
 
